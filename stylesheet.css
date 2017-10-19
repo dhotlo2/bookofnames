@@ -1,0 +1,22 @@
+.welcometext {
+	text-align: center;
+	font-family: Arial;
+	font-size: 14;
+	color: grey;
+
+}
+
+.inputclass {
+	text-align: center;
+	position: relative;
+	align-items: center;
+}
+
+.inputs{
+	position: absolute;
+}
+
+body {
+	background-image: url("media/paperbg.png");
+	background-blend-mode: 
+}
